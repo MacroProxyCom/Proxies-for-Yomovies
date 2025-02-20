@@ -26,6 +26,7 @@ Yomovies regularly modifies its domain to evade detection. As of February 8th, 2
 - https://yomovies.app
 - https://yomovies.ninja/
 - https://yomovieshd.site/
+
 (Note: These domains may change over time. If access fails, try another one listed above.)
 
 # Legal Alternatives to Yomovies
